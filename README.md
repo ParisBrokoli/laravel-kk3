@@ -17,8 +17,8 @@ Proyek ini dikembangkan untuk memenuhi tugas materi Laravel Eloquent. Sistem ini
 - Kolom `departemen_id` pada tabel `karyawans`: Foreign key yang menghubungkan karyawan ke departemennya.
 
 ## Screenshots
-![Dashboard UI](https://via.placeholder.com/800x450/1e293b/22d3ee?text=Premium+Employee+Dashboard+UI)
-*Note: Tampilan web telah dicustom menggunakan CSS Vanilla dengan estetika premium.*
+<img width="1366" height="716" alt="image" src="https://github.com/user-attachments/assets/805443bd-1c1b-4abf-b317-0d311b490d1d" />
+
 
 ## How to Run
 1. Clone repository.
